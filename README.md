@@ -130,7 +130,7 @@ LightGBM offers near-state-of-the-art accuracy **with lower resource cost** than
 
 A QR code in the original appendix links to:  
 
-* `arrhythmia_classification.py` – full training script  
+* `rt_Final.py and rt_cnn` – full training script  
 * `mitbih_train.csv`, `mitbih_test.csv` – pre-processed datasets  
 * `cnn_saved_model.h5` – trained CNN weights  
 
